@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="rawJsonData">Receive JSON data from Server</string>
+    <string name="parsed_json_data">Following is the parsed JSON data</string>
+    <string name="PlsWait">Please wait...</string>
+    <string name="error">Error</string>
+    <string name="android">Android</string>
+    <string name="data_from_server">Following is the JSON data received from server :</string>
 </resources>
